@@ -6,8 +6,12 @@ Homebrew formulae for my tools.
 
 ```sh
 brew tap tim-lgi/tap
+brew trust tim-lgi/tap
 brew install typerunner
 ```
+
+Homebrew will not load a formula from a tap outside its own until you trust it,
+so `brew trust` is part of the first install.
 
 ## What's here
 
