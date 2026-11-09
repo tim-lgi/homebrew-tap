@@ -1,8 +1,8 @@
 class Typerunner < Formula
   desc "Terminal typing race game: outrun the pacers, clear the hurdles"
   homepage "https://github.com/tim-lgi/typerunner"
-  url "https://github.com/tim-lgi/typerunner/archive/refs/tags/v1.0.1.tar.gz"
-  sha256 "8d6c98705b60f204ca2638f6afc419c7d9607eba82395adcbedcc67bb2a3b205"
+  url "https://github.com/tim-lgi/typerunner/archive/refs/tags/v1.0.2.tar.gz"
+  sha256 "03856ce23ab2b813eb816037883bd35843ac0e9d7db421a0377be0b9094cdbaf"
   license "GPL-3.0-or-later"
 
   depends_on "python@3.13"
