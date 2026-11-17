@@ -8,7 +8,6 @@ cask "typerunner-app" do
   homepage "https://github.com/tim-lgi/typerunner"
 
   depends_on arch: :arm64
-  depends_on macos: ">= :catalina"
 
   app "Typerunner.app"
 
